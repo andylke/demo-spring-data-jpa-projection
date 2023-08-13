@@ -1,4 +1,4 @@
-package com.github.andylke.demo.spring.purchaseorder;
+package com.github.andylke.demo.purchaseorder;
 
 import java.math.BigDecimal;
 

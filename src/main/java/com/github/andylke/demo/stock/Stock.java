@@ -1,4 +1,4 @@
-package com.github.andylke.demo.spring.stock;
+package com.github.andylke.demo.stock;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

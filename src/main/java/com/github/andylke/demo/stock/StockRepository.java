@@ -1,4 +1,4 @@
-package com.github.andylke.demo.spring.stock;
+package com.github.andylke.demo.stock;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
